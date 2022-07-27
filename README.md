@@ -1,2 +1,7 @@
 # ControlRegistro
- Registro de QRs
+
+Registro de Productos.
+
+FLUTTER CONTROLPLUS
+
+#HYRE
