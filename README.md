@@ -1,0 +1,2 @@
+# ControlRegistro
+ Registro de QRs
